@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prince.Gupta\\source\\repos\\Locator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78016287-00C2-416A-BA6F-547B668801F7}|Locator\\Locator.csproj|c:\\users\\prince.gupta\\source\\repos\\locator\\locator\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78016287-00C2-416A-BA6F-547B668801F7}|Locator\\Locator.csproj|solutionrelative:locator\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78016287-00C2-416A-BA6F-547B668801F7}|Locator\\Locator.csproj|c:\\users\\prince.gupta\\source\\repos\\locator\\locator\\locator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78016287-00C2-416A-BA6F-547B668801F7}|Locator\\Locator.csproj|solutionrelative:locator\\locator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Locator",
+              "DocumentMoniker": "C:\\Users\\Prince.Gupta\\source\\repos\\Locator\\Locator\\Locator.csproj",
+              "RelativeDocumentMoniker": "Locator\\Locator.csproj",
+              "ToolTip": "C:\\Users\\Prince.Gupta\\source\\repos\\Locator\\Locator\\Locator.csproj",
+              "RelativeToolTip": "Locator\\Locator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T06:12:48.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Prince.Gupta\\source\\repos\\Locator\\Locator\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Locator\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Prince.Gupta\\source\\repos\\Locator\\Locator\\UnitTest1.cs",
+              "RelativeToolTip": "Locator\\UnitTest1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:20:53.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
